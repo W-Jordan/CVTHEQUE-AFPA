@@ -12,7 +12,7 @@
 
         echo $cv->nom."\n";
         echo $cv->prenom."\n";
-        echo $cv->job."\n";
+        echo $cv->metier."\n";
         echo $cv->description."\n";
         // echo $cv->city."\n";
         echo $cv->mail."\n";
