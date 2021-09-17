@@ -1,1 +1,21 @@
-{"nom":"CVTHEQUE DWWM","lesCV":[{"nom":"DELEFORGE","prenom":"Nicolas","metier":"D\u00e9veloppeur Web","description":"Dipl\u00f4m\u00e9 \u00e0 l'origine d'une ma\u00eetrise d'urbanisme \u00e0 l'Universit\u00e9 du Littoral C\u00f4te d'Opale, j'ai r\u00e9cemment d\u00e9cid\u00e9 de me reconvertir dans un domaine compl\u00e8tement diff\u00e9rent avec l'informatique.","mail":"contact@nicolasdeleforge.fr","telephone":"0665163217"}]}
+{
+    "nom": "CVTHEQUE DWWM",
+    "lesCV": [
+        {
+            "nom": "DELEFORGE",
+            "prenom": "Nicolas",
+            "metier": "D\u00e9veloppeur Web",
+            "description": "Dipl\u00f4m\u00e9 \u00e0 l'origine d'une ma\u00eetrise d'urbanisme \u00e0 l'Universit\u00e9 du Littoral C\u00f4te d'Opale, j'ai r\u00e9cemment d\u00e9cid\u00e9 de me reconvertir dans un domaine compl\u00e8tement diff\u00e9rent avec l'informatique.",
+            "mail": "contact@nicolasdeleforge.fr",
+            "telephone": "0665163217"
+        },
+        {
+            "nom": "LA DOUCHETTE",
+            "prenom": "Robin",
+            "metier": "chomeur monier",
+            "description": "Dipl\u00f4m\u00e9 \u00e0 l'origine d'une ma\u00eetrise d'urbanisme \u00e0 l'Universit\u00e9 du Littoral C\u00f4te d'Opale, j'ai r\u00e9cemment d\u00e9cid\u00e9 de me reconvertir dans un domaine compl\u00e8tement diff\u00e9rent avec l'informatique.",
+            "mail": "contact@nicolasdeleforge.fr",
+            "telephone": "0665163217"
+        }
+    ]
+}
