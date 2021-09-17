@@ -10,29 +10,7 @@
 </head>
 <body class="col"> 
     <header class="row">
-        <nav class="bg1 flex ">
-            <ul class="center padd0 flex col-basic">
-            <li class="link-nav">
-                    <a href="#">Item</a>
-                </li>
-
-                <li class="link-nav">
-                    <a href="#">Item</a>
-                </li>
-
-                <li class="link-nav">
-                    <a href="#">Item</a>
-                </li>
-
-                <li class="link-nav">
-                    <a href="#">Item</a>
-                </li>
-
-                <li class="link-nav">
-                    <a href="#">Item</a>
-                </li>
-            </ul>
-        </nav>
+       
     </header>
     <div class="titre mt-3 mb-2 center dblock">
         <h1 class="dblock">Cvthèque</h1>
@@ -51,7 +29,6 @@
                         <h4 class="marg0"><?= $cv->nom.' '.$cv->prenom ?></h4>
                         <div class="sous-titre mb-1"><?=  $cv->metier ?></div>
                         <div class="description mb-1"><?=  $cv->description ?></div>
-                        <div class="locali"><a href="#" style="color:#333"><i class="fas fa-map-marker-alt"></i> Dunkerque</a></div>
                     </div>
                     <div class="btn3 col flex1">
                         <a href="tel:<?=$cv->telephone?>" target="_blank"><div class="btn1 radius1 btn-tel pd-1 bg1 center"><i class="fas fa-phone-alt"></i></div></a>
